@@ -19,8 +19,7 @@ https://curious-manatee-9844a8.netlify.app/
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (396)](https://user-images.githubusercontent.com/79746851/204092803-af69e64c-cdbd-41b5-a73e-275a59bd1444.png)
 
 
 ## Tech Stack
