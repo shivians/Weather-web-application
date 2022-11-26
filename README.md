@@ -14,7 +14,7 @@ Insert gif or link to demo
 
 https://curious-manatee-9844a8.netlify.app/
 ## 🔗 Links
-[![github](https://github.com/shivians)](https://katherineoelsner.com/)
+[![github](https://github.com/shivians)]
 
 
 ## Screenshots
