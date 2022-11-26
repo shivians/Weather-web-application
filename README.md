@@ -11,7 +11,7 @@ API - weather free api
 
 ## Demo
 
-Insert gif or link to demo
+
 
 https://curious-manatee-9844a8.netlify.app/
 ## 🔗 Links
