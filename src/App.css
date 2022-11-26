@@ -1,38 +1,70 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.dash-container{
+  background:linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2) ), url('../public//img//nature.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: calc(100vh - 50px);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main form{
+  margin: auto;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+}
+.main form input{
+  width: 60%;
+  min-height: 50px;
+  border-radius: 5px;
+  font-size: 18px;
+  padding-left: 5px;
+  
+}
+.main form button{
+  width: 100px;
+  height: 50px;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: -5px;
   color: white;
+  background-color: #1e90ff;
+  border-radius: 5px;
+ 
 }
-
-.App-link {
-  color: #61dafb;
+.main form button:hover{
+color: rgb(214, 208, 208);
+background-color: #1e90ff;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.display-data{
+  width: 100%;
+  height: 400px;
+}
+.city{
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color:#181717 ;
+}
+.city-hr{
+  width: 200px;
+  margin: auto;
+  border: 1px solid #1e90ff;
+}
+form p a{
+  text-decoration: none;
+  margin-left: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+form{
+  border-bottom: 1px solid rgb(191, 189, 189);
+  padding-bottom: 20px;
 }

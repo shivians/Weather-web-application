@@ -1,3 +1,44 @@
+
+# Weather web application
+
+Frontend - React,Bootstrap
+API - weather free api
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Demo
+
+Insert gif or link to demo
+
+https://curious-manatee-9844a8.netlify.app/
+## 🔗 Links
+[![github](https://github.com/shivians)](https://katherineoelsner.com/)
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Tech Stack
+
+**Client:** React, Redux, bootstrap,MUI
+
+**Server:** Node, Express
+**Database:** Mongodb,Mysql
+
+
+
+## Running Tests
+
+To run tests, run the following command
+
+``
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
